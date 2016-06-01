@@ -1,0 +1,54 @@
+### Module positions - created on 5/31/2016 9:36:07 PM ###
+### Printed by Pcbnew version kicad 4.0.2-stable
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref     Val         Package                    PosX       PosY       Rot  Side
+C1        10uF        C_0805_HandSoldering     6.3060    -4.2910  180.0000  top
+C2        10u         C_0805_HandSoldering     4.4635    -2.7715  180.0000  top
+C3        10uF        C_0805_HandSoldering     6.4760    -4.0180   90.0000  top
+C4        10u         C_0805_HandSoldering     4.7935    -3.0965  180.0000  top
+C5        10uF        C_0805_HandSoldering     6.3520    -3.0150    0.0000  top
+C6        10n         C_0805_HandSoldering     4.5795    -3.5445  270.0000  top
+C7        10n         C_0805_HandSoldering     4.5235    -3.4105  180.0000  top
+C8        10u         C_0805_HandSoldering     4.5065    -4.0695   90.0000  top
+C9        10u         C_0805_HandSoldering     4.4455    -3.5955    0.0000  top
+C10       10uF        C_0805_HandSoldering     6.4610    -2.8750  270.0000  top
+C11       1u          C_0805_HandSoldering     4.5905    -4.0695   90.0000  top
+C12       10uF        C_0805_HandSoldering     6.2210    -2.6000  270.0000  top
+C13       .1uF        C_0805_HandSoldering     5.2710    -3.4520  270.0000  top
+C14       .1uF        C_0805_HandSoldering     5.2280    -3.8830  180.0000  top
+C15       .1uF        C_0805_HandSoldering     5.2530    -3.0980    0.0000  top
+C16       10uF        C_0805_HandSoldering     5.9120    -3.6920  180.0000  top
+C17       .1uF        C_0805_HandSoldering     5.9160    -3.2700  180.0000  top
+C18       10u         C_0805_HandSoldering     5.0630    -3.6800  270.0000  top
+C19       1u          C_0805_HandSoldering     4.9710    -2.5500   90.0000  top
+C20       1u          C_0805_HandSoldering     5.6710    -4.5000  180.0000  top
+C21       2.2u        C_0805_HandSoldering     5.1210    -4.6500    0.0000  top
+C22       2.2u        C_0805_HandSoldering     5.6710    -4.7000  180.0000  top
+C23       2.2u        C_0805_HandSoldering     5.7710    -4.8000  180.0000  top
+C24       2.2u        C_0805_HandSoldering     5.6710    -4.6000  180.0000  top
+D1        LED         LED_0805                 6.1450    -3.6550   90.0000  top
+D2        LED         LED_0805                 6.3120    -3.6563   90.0000  top
+L1        L_Small     R_0805                   5.7610    -3.1900  270.0000  top
+R1        2.2k        R_0805_HandSoldering     5.1515    -2.5365   90.0000  top
+R2        16k         R_0805_HandSoldering     4.6645    -3.3465   90.0000  top
+R3        16k         R_0805_HandSoldering     4.6645    -3.5415   90.0000  top
+R4        100k        R_0805_HandSoldering     4.7315    -4.2085  180.0000  top
+R5        100k        R_0805_HandSoldering     4.5365    -4.2085  180.0000  top
+R6        100k        R_0805_HandSoldering     5.1120    -3.3320  270.0000  top
+R7        100k        R_0805_HandSoldering     5.0580    -3.4730  180.0000  top
+R8        470         R_0805_HandSoldering     5.5310    -3.0950  180.0000  top
+R9        470         R_0805_HandSoldering     5.3910    -3.1520  270.0000  top
+R10       1M          R_0805_HandSoldering     4.4085    -3.1005    0.0000  top
+R11       1M          R_0805_HandSoldering     4.4085    -3.1875  180.0000  top
+R12       500         R_0805_HandSoldering     6.1440    -3.4820  270.0000  top
+R13       500         R_0805_HandSoldering     6.3120    -3.4800  270.0000  top
+R14       100k        R_0805_HandSoldering     5.1210    -4.7500    0.0000  top
+R15       12          R_0805_HandSoldering     4.8210    -4.6500   90.0000  top
+R16       12          R_0805_HandSoldering     4.7210    -4.6500   90.0000  top
+U3        MAX1659ESA  SOIC-8-N                 6.2210    -4.0500   90.0000  top
+U4        LT1881      SOIC-8-N                 4.6085    -2.9685  180.0000  top
+U5        LDO-AS1360  SOT-23                   6.3210    -2.8500    0.0000  top
+U6        LT1178      SOIC-8-N                 4.5345    -3.8085  180.0000  top
+U8        MAX1721     SOT-23-6                 6.0680    -2.5710    0.0000  top
+## End

@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASFL1-4.00MHZ-L-T
+D Oscillator
+$ENDCMP
+#
+$CMP CMA-4544PF-W
+D CMA-4544PF-W
+$ENDCMP
+#
+$CMP ConnP2
+D Connector 2pins
+$ENDCMP
+#
+$CMP LT1881
+D LT1881
+$ENDCMP
+#
+$CMP MAX1721
+D MAX1721
+$ENDCMP
+#
+#End Doc Library
